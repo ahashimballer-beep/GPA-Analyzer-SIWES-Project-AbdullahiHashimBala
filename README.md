@@ -15,3 +15,5 @@ pip install streamlit pandas matplotlib
 ```
 streamlit run main.py
 ```
+3. Dataset Source: Provided by ChatGPT(sample_grades.csv)
+4. Cleaning steps: checked for missing values, ensured column types were correct, standardized grade column
